@@ -1,0 +1,2 @@
+An Amazon EC2 instance is a virtual server within EC2 a part of Amazon Web Services. 
+It's essentially a virtual machine that you can launch and manage within the AWS cloud to run your applications
